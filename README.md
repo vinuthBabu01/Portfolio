@@ -1,3 +1,3 @@
 # Portfolio
 Portfolio website
-Creating a potfolio website
+Creating a potfolio website 
